@@ -1,0 +1,24 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  background-color: none;
+  color: green
+  font-size: 15px;
+  }
+h1 {
+  font-family: 'Arial', sans-serif;
+  font-size: 50px; 
+  color: darkolivegreen
+}
+p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px; 
+  color: darkolivegreen
+}
+p2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px; 
+  color: darkolivegreen
+}
